@@ -21,13 +21,13 @@ It demonstrates Java fundamentals, JDBC connectivity, file handling, and databas
 
 ## 🗂️ Project Structure
 
-src/
-├── com.ani.beans
-│ └── Student.java
-├── com.ani.services
-│ └── StudentService.java
-└── com.ani.user
-└── StudentDataUser.java
+src/<br>
+├── com.ani.beans<br>
+│ └── Student.java<br>
+├── com.ani.services<br>
+│ └── StudentService.java<br>
+└── com.ani.user<br>
+└── StudentDataUser.java<br>
 
 
 ---
